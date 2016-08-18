@@ -1,7 +1,7 @@
 name: Dustin Gilmore
 favicon: null
 layout_spectrum: 0.0106
-typography_spectrum: 0.052093870704993606
+typography_spectrum: 0.73699
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#a25d60'
     - '#c59588'
     - '#61a1d3'
-  brandStrength: 0.625
+  brandStrength: 0.5625
   lightness: 0.875
   saturation: 0.625
   rhythmicContrast: 0.5
